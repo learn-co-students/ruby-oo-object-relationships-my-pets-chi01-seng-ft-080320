@@ -20,6 +20,8 @@ move to that tiny NYC studio after college).
 
 A `Dog` and a `Cat` are initialized with a name and an **Owner object**
 
+Dog >- Owner -< Cat
+
 ### Part I: Object Models
 
 - Define a `Dog` and `Cat` class that have the attributes required by the
